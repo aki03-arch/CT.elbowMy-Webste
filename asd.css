@@ -1,0 +1,80 @@
+body
+{	
+
+}
+img {height}
+a:hover {
+  background-color: darkred;
+  color: white;
+  text-align: center;
+
+
+}
+a:link {
+  color: white;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+a:visited {
+  color: lightgray;
+ }
+ #t1{font-size: 30px; padding-right: 50px;
+
+ }
+ #nav
+ {
+background-color: black;
+font-size-adjust: 1;
+ }
+ #t3
+ td {border: 1px solid white;
+ 		 border-collapse: collapse;
+ 		 border-radius: 25px;
+ 		 background-color: lightblue;
+ }
+.container {
+margin: 100px;
+width: 70%;
+height: 450px;
+justify-content: center;
+border-radius: 10px;
+border-color: black;
+}
+
+.container 
+img 
+{
+  width: 10%;
+  height: 100%;
+}
+.container 
+img:hover
+{width: 30%}
+
+.contact
+{
+  background-color: black;
+
+}
+#login
+{
+  color: white;
+  padding: 50px;
+  font-size-adjust: 1 ;
+}
+h1
+{
+  color: white;
+  font-family: ;
+  font-effect
+}
+ul
+{
+  background-color: black;
+  border-radius: 10px;
+}
+#footer
+{
+  background-color: black;
+  color: white;
+  text-align: center;

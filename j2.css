@@ -1,0 +1,29 @@
+body {
+	background-image: url(img/gtavice.jpg);
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#header {
+	padding: 20px;
+	text-align: right;
+	background: #434343;
+	color: white;
+	font-size: 30px;
+}
+
+#header a {
+	margin-top: 10;
+	margin-bottom: px;
+	margin-right: 40px;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+#header a:hover {
+	background: gray;
+	padding: 5px;
+}

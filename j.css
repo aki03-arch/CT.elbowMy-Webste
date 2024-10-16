@@ -1,0 +1,74 @@
+body {
+	background-image: url(img/images.jpg);
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+
+#header {
+	padding: 20px;
+	text-align: right;
+	background: #434343;
+	color: green;
+	font-size: 30px;
+}
+
+#header a {
+	margin-top: 10;
+	margin-bottom: px;
+	margin-right: 40px;
+	font-size: 20px;
+	color: green;
+	text-decoration: none;
+}
+
+#header a:hover {
+	background: gray;
+	padding: 5px;
+}
+
+.navigation {
+	background: gray;
+}
+
+#profile img {
+	margin-top: -380px;
+	float: left;
+}
+
+#contentText {
+	margin-top: -400px;
+	margin-left: 250px;
+	float: left;
+}
+
+#contentText p {
+	margin-top: -20px;
+}
+
+#container {
+	margin: 400px 0 0 275px;
+	width: 70%;
+	height: 450px;
+	display: flex;
+	justify-content: center;
+	gap: 10%;
+	margin-bottom: 50px;
+}
+
+#container img {
+	width: 10%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black;
+	transition: all ease-in-out 0.2s
+}
+
+#container img:hover {
+	width: 25%;
+}
